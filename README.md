@@ -19,9 +19,9 @@
   <img align="center" alt="Ana-Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </div></br>
   
-  <div align="center">
+ <div align="center">
 
-  ![Snake animation](https://github.com/anacarolinassantos/anacarolinassantos/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=anacarolinassantos&bg_color=07070e&color=b75c73&line=b75c73&point=b75c73&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
  
