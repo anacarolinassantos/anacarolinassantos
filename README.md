@@ -7,6 +7,7 @@
 </div>
 
 <div align="center" valign="top"><br>
+  <img align="center" alt="Ana-CY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />    
   <img align="center" alt="Ana-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Ana-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
   <img align="center" alt="Ana-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
