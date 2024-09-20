@@ -7,13 +7,14 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Ana-CY" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />    
-  <img align="center" alt="Ana-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Ana-JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" >
-  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Ana-Postgresql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
-  <img align="center" alt="Ana-Github" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Ana-CY" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Cypress-Dark.svg"/>    
+  <img align="center" alt="Ana-Java" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
+  <img align="center" alt="Ana-JS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
+  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+  <img align="center" alt="Ana-Postman" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg"/>  
+  <img align="center" alt="Ana-Postgresql" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
+  <img align="center" alt="Ana-IDEA" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg"/>
+  <img align="center" alt="Ana-Github" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
   </div></br>
   
  
