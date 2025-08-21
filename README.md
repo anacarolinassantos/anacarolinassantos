@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=de3163&size=35&center=true&vCenter=true&width=1000&speed=280&lines=Ana+Carolina+Santos;Analista+de+Qualidade+Pleno;Testes+Manuais+e;Automação+WEB+e+API+com+Cypress!)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anacarolinassantos&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&bg_color=0d1117" alt="Estatísticas do GitHub de Ana Carolina"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinassantos&&layout=compact&theme=radical&include_all_commits=true&locale=pt-br&bg_color=0d1117" alt="Tecnologias"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anacarolinassantos&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br&bg_color=0d1117&cache_seconds=60&v=1" alt="Estatísticas do GitHub de Ana Carolina"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinassantos&&layout=compact&theme=radical&include_all_commits=true&locale=pt-br&bg_color=0d1117&cache_seconds=60&v=1" alt="Tecnologias"/>
 </div>
 
 <div align="center" valign="top"><br>
