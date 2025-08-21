@@ -12,14 +12,13 @@
   <img align="center" alt="Ana-TS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg"/>
   <img align="center" alt="Ana-JS" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg"/>
   <img align="center" alt="Ana-Java" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg"/>
-  <img align="center" alt="Ana-HTML" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg"/>
+  <img align="center" alt="Appium" height="50" width="50" src="https://www.svgrepo.com/show/353413/appium.svg"/>
   <img align="center" alt="Ana-Postman" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg"/>  
   <img align="center" alt="Ana-Postgresql" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg"/>
   <img align="center" alt="Ana-webs" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/WebStorm-Dark.svg"/>
   <img align="center" alt="Ana-IDEA" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Idea-Dark.svg"/>
   <img align="center" alt="Ana-Github" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" />
   <img align="center" alt="Linux" height="50" width="50" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg">
-
   </div></br>
   
  
